@@ -8,3 +8,4 @@
 - Next generation sequencing, PCR, and data analysis.
 - what are the three most important tools/strategies you use for organizing your work?  
 - DNA-star, R, and NCBI.
+Atousaaa
